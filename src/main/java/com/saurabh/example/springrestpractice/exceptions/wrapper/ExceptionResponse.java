@@ -1,4 +1,4 @@
-package com.saurabh.example.springrestpractice.exceptions;
+package com.saurabh.example.springrestpractice.exceptions.wrapper;
 
 import java.time.LocalDateTime;
 
